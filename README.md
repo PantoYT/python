@@ -1,4 +1,11 @@
-This repository contains a collection of small Python projects created for learning and experimentation.
-Projects labeled with v1 are early versions and may be expanded or improved later.
-Each folder represents a separate project.
+# Simple Python Projects
+
+A collection of small Python projects created for learning and experimentation.
+
+## Notes
+- Projects labeled **v1** are initial versions.
+- Each folder represents a separate project.
+
+<!-- Keep projects independent, no shared code for now -->
+
 Feel free to explore and use the code.
