@@ -84,7 +84,6 @@ if typ == 16:
         wynik_dec += ((wynik_bin//dzielnik)%10)*(2**i)
         dzielnik *= 10
     print(f"Liczba heksadecymalna {wynik_bin} w systemie dziesiętnym to {wynik_dec}")
-   
     
     
         
