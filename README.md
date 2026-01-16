@@ -4,8 +4,6 @@ A collection of small Python projects created for learning and experimentation.
 
 ## Notes
 - Projects labeled **v1** are initial versions.
-- Each folder represents a separate project.
-
-<!-- Keep projects independent, no shared code for now -->
+- Each folder represents a separate project
 
 Feel free to explore and use the code.
