@@ -77,5 +77,3 @@ if __name__ == "__main__":
     print()
     print(f"NWD to {O_NWD}")
     print(f"NWW to {O_NWW}")
-
-    
