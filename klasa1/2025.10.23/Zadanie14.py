@@ -7,6 +7,6 @@ dyz=((x3-x2)**2+(y3-y2)**2)**0.5
 #Pole i obwód
 obw=dxy+dxz+dyz
 pobw=obw/2
-pole=(pobw*(pobw-dpobw-dxz)*(pobw-dyz))**0.5
+pole=(pobw*(pobw-dxy)*(pobw-dxz)*(pobw - dyz))**0.5
 print(f"Dystanse między punktami to: {dxy}, {dxz}, {dyz}\nObwód tego trójkąta wynosi: {obw}\nPole tego trójkąta to: {pole}")
 
