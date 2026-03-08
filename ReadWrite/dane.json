@@ -1,0 +1,9 @@
+{
+    "uczniowie": [
+        {"imie": "Jan", "nazwisko": "Kowalski", "oceny": [5, 4, 3]},
+        {"imie": "Anna", "nazwisko": "Nowak", "oceny": [6, 5, 5]},
+        {"imie": "Piotr", "nazwisko": "Wiśniewski", "oceny": [3, 2, 4]}
+    ],
+    "klasa": "3A",
+    "rok": 2025
+}
